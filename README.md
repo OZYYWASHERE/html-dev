@@ -3,5 +3,5 @@
 
 # EGİTİME KATILMAK İÇİN
 
-[linke tıklayın](www.patika.dev)
+[linke tıklayın](https://app.patika.dev/)
 
