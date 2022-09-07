@@ -3,5 +3,5 @@
 
 # EGİTİME KATILMAK İÇİN
 
-[lorem ipsum](www.patika.dev)
+[linke tıklayın](www.patika.dev)
 
